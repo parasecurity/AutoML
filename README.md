@@ -13,6 +13,6 @@ Current implementation allows to explain the model decision under the constructi
 We are limited to models with specific functionality such as: fit, predict and predic_proba in order to fine-tune the final model decision threshold and also properly utilise the model explainability. Based on this limitations we are currently manage to import Rand
 omForest, SVM and XGBoost models. The implementation is not limited to these models only and allows importing with few lines of code to import any other model, which will comply with the described limitations of functionality.
 
-## Coomunication
+## Communication
 
 Alexander Shevtsov: asevtsov[at]tuc.gr
